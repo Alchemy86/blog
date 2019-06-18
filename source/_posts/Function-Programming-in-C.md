@@ -1,6 +1,6 @@
 ---
 title: 'Function Programming in C#'
-date: 2018-09-10 09:23:07
+date: 2019-06-18 14:26:09
 draft: false
 tags: [ ".NET", ".NET Core", "functional" ]
 categories: [ ".NET" ]
